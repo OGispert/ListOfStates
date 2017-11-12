@@ -1,0 +1,11 @@
+framework module OGCustomCell {
+  umbrella header "OGCustomCell.h"
+
+  export *
+  module * { export * }
+}
+
+module OGCustomCell.Swift {
+    header "OGCustomCell-Swift.h"
+    requires objc
+}

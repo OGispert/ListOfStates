@@ -2,7 +2,7 @@
 //  OGListOfStatesTests.swift
 //  OGListOfStatesTests
 //
-//  Created by Gispert Pelaez, Othmar (Accenture) on 11/9/17.
+//  Created by Gispert Pelaez, Othmar on 11/9/17.
 //  Copyright © 2017 iGispert. All rights reserved.
 //
 
